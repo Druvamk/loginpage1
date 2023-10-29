@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/loginpage1/static/css/main.12057890.css",
+    "main.js": "/loginpage1/static/js/main.ad859c10.js",
+    "static/media/dogbg.jpg": "/loginpage1/static/media/dogbg.a8c93d3ac3bb98861449.jpg",
+    "index.html": "/loginpage1/index.html",
+    "main.12057890.css.map": "/loginpage1/static/css/main.12057890.css.map",
+    "main.ad859c10.js.map": "/loginpage1/static/js/main.ad859c10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12057890.css",
+    "static/js/main.ad859c10.js"
+  ]
+}
